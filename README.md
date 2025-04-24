@@ -20,3 +20,6 @@
 - **Database**: MySQL 8.0+
 - **Design Tools**: dbdiagram.io 
 - **Version Control**: GitHub
+---
+### ERD
+![trainBooking ERD](
