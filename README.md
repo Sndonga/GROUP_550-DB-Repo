@@ -22,4 +22,4 @@
 - **Version Control**: GitHub
 ---
 ### ERD
-![trainBooking ERD](https://github.com/Sndonga/GROUP_550-DB-Repo/blob/main/ERD.png)
+![GROUP_550-DB-Repo](https://github.com/Sndonga/GROUP_550-DB-Repo/blob/main/ERD.png)
